@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos están lanzados en github pages, accede a ellos de forma visual a través de mi portfolio [https://algusaem.github.io/](https://algusaem.github.io/)
 
-- 💬 Mis tecnologías favoritas son **Angular, JavaScript ¡aunque conozco muchas más!**
+- 💬 Mis tecnologías favoritas son **Angular, JavaScript, CSS y Java ¡aunque conozco muchas más!**
 
 - 📫 Si quieres contactar conmigo mi correo es **algusaem@gmail.com**
 
