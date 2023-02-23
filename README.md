@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos están lanzados en github pages o vercel, accede a ellos de forma visual a través de mi portfolio [https://algusaem.github.io/](https://algusaem.github.io/)
 
-- 💬 Mis tecnologías favoritas son **React, Angular, Node, Tailwind y Java ¡aunque conozco muchas más!**
+- 💬 Mis tecnologías favoritas son **React, Angular, Node, Tailwind y CSS ¡aunque conozco muchas más!**
 
 - 📫 Si quieres contactar conmigo mi correo es **algusaem@gmail.com**
 
