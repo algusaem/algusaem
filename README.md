@@ -7,7 +7,7 @@
 
 - 📫 Si quieres contactar conmigo mi correo es **algusaem@gmail.com**
 
-- ⚡ ¡No dudes en preguntarme por **mis aptitudes o experiencias**! Cómo decía mi abuela "hablando se entiende la gente".
+- ⚡ ¡No dudes en preguntarme por **mis aptitudes o experiencias**!
 
 <p align="left">
 </p>
