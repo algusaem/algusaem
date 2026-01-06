@@ -7,7 +7,5 @@
 
 - 📫 If you want to contact me my email is **algusaem@gmail.com**
 
-- ⚡ Feel free to ask me about **my skills or my experience**!
-
 <p align="left">
 </p>
